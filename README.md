@@ -14,6 +14,7 @@ Based on
     git clone git@github.com:sagish/compound-mongoose-coffeescript-api.git my-new-compound-coffee-api
     cd my-new-compound-coffee-api
     rm -rf .git/
+    npm install
 
 #### Development
 
