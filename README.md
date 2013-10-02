@@ -11,12 +11,20 @@ Based on
 
 ### Installation
 
-Run you server locally on dev
+    `git clone git@github.com:sagish/compound-mongoose-coffeescript-api.git my-new-compound-coffee-api`
+    `cd my-new-compound-coffee-api`
+    `rm -rf .git/`
+
+### Development
+
+Run you server locally on dev (don't forget to run Monogd first)
 
 `node-dev server.coffee`
 
-don't forget to run Monogd first.
+### Deployment
 
-### Write and test
+However you may see fit.
+
+### Test
 
 `make test`
