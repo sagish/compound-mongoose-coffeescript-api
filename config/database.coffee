@@ -1,0 +1,12 @@
+module.exports = 
+  development:
+    driver: "mongoose"
+    url: "mongodb://localhost/dev"
+
+  test:
+    driver: "mongoose"
+    url: "mongodb://localhost/dev"
+
+  production:
+    driver: "mongoose"
+    url: "mongodb://localhost/prod"
