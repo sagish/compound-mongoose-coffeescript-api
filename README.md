@@ -1,6 +1,6 @@
 # Compound-Mongoose-Coffeescript API Boilerplate
 
-## A Node.js API boilerpate
+## A Node.js API boilerplate
 
 Based on
 1. [CompoundJS](https://github.com/1602/compound) (1.1.7-9) - views and assets were removed to maintain a slim api-oriented paradigm
