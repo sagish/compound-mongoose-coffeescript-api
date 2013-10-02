@@ -1,6 +1,6 @@
-# Compound-Mongoose-Coffeescript API Boilerplate
+## Compound-Mongoose-Coffeescript API Boilerplate
 
-## A Node.js API boilerplate
+### A Node.js API boilerplate
 
 Based on
 
@@ -9,22 +9,22 @@ Based on
 3. Implemented in [CoffeeScript](http://coffeescript.org)
 4. Tests-ready using [Mocha](http://visionmedia.github.io/mocha/)
 
-### Installation
+#### Installation
 
-    `git clone git@github.com:sagish/compound-mongoose-coffeescript-api.git my-new-compound-coffee-api`
-    `cd my-new-compound-coffee-api`
-    `rm -rf .git/`
+    git clone git@github.com:sagish/compound-mongoose-coffeescript-api.git my-new-compound-coffee-api
+    cd my-new-compound-coffee-api
+    rm -rf .git/
 
-### Development
+#### Development
 
 Run you server locally on dev (don't forget to run Monogd first)
 
 `node-dev server.coffee`
 
-### Deployment
+#### Deployment
 
 However you may see fit.
 
-### Test
+#### Test
 
 `make test`
