@@ -5,6 +5,7 @@ module.exports = (compound) ->
   developmentModules = []
   if compound.app.get('env') is 'development'
     developmentModules = [
+      'co-generators'
     ]
 
   unless window?
